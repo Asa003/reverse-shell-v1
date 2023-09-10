@@ -11,4 +11,4 @@ Features:
 
 --> Ultimate Control: Gain complete access to your target machine and wield more control than the system's users themselves, demonstrating the power of reverse shells.
 
---> Ethical Responsibility: I urge you to use this project responsibly and exclusively in authorized environments, ensuring that ethical standards are upheld.
+I urge you to use this project responsibly and exclusively in authorized environments, ensuring that ethical standards are upheld.

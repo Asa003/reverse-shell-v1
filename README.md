@@ -4,8 +4,8 @@ This is a simple project aimed at helping you understand the fundamental concept
 
 Features:
 
-Basic reverse shell implementation for educational purposes.
+--> Basic reverse shell implementation for educational purposes.
 
-Designed to work in a controlled, local environment.
+--> Designed to work in a controlled, local environment.
 
-Provides insights into the core concepts of reverse shells.
+--> Provides insights into the core concepts of reverse shells.
